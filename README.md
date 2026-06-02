@@ -7,6 +7,12 @@ Aplicação web que gera backgrounds dinâmicos e animados utilizando Inteligên
 ---
  
 ## 📸 Demonstração
+
+### 🎥 Demonstração da Aplicação
+ 
+![Demo](./docs/images/demo.gif)
+
+---
  
 ### 🏠 Tela
  
@@ -29,12 +35,6 @@ Aplicação web que gera backgrounds dinâmicos e animados utilizando Inteligên
 ### 🎨 Background e Código Gerados pela IA
  
 ![Background e Código Gerados](./docs/images/pagina-dinamica-2.png)
-
----
-
-### 🎥 Demonstração da Aplicação
- 
-![Demo](./docs/images/demo.gif)
  
 ---
  
