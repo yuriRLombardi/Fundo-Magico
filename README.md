@@ -38,7 +38,7 @@ Aplicação web que gera backgrounds dinâmicos e animados utilizando Inteligên
  
 ---
 
-## 🔗 Demo: https://yurirlombardi.github.io/Fundo-Magico/
+### 🔗 Demo: https://yurirlombardi.github.io/Fundo-Magico/
 
 ---
  
