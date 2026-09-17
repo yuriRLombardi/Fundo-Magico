@@ -37,7 +37,11 @@ Aplicação web que gera backgrounds dinâmicos e animados utilizando Inteligên
 ![Background e Código Gerados](./docs/images/pagina-dinamica-2.png)
  
 ---
+### :red_circle: Fluxo n8n do projeto
 
+![Fluxo n8n](./docs/images/fluxo_n8n_projeto.png)
+
+---
 ### 🔗 Demo: https://yurirlombardi.github.io/Fundo-Magico/
 
 ---
